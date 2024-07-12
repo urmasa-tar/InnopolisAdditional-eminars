@@ -7,3 +7,9 @@
 <h5>Iterable objects</h5>
 <p>Materials by lecture</p>
 <a href="https://colab.research.google.com/drive/10TlbvZgqN5FwW_06nrpNflRs8kfRCcEi?usp=sharing&pli=1">Colab notebook</a>
+
+
+
+<h4>Lecture 2</h4>
+<h5>Functions on iterable objects</h5>
+
